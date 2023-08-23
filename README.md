@@ -59,4 +59,47 @@ Type "help", "copyright", "credits" or "license" for more information.
 > - https://github.com/pypa/pipenv
 >
 > - https://pipenv.pypa.io/en/latest/
+>
+> - Note: 需要设置环境变量 `WORKON_HOME` 座位虚拟环境的存储目录
 
+## Python 入门
+
+### 学习资源
+
+> mooc - Python3 入门教程（新版）
+>
+> - http://www.imooc.com/learn/1261
+>
+> mooc - Python 入门语法教程
+>
+> - http://www.imooc.com/wiki/pythonlesson1
+>
+> 廖雪峰 - 小白的 Python 新手教程
+>
+> - https://www.liaoxuefeng.com/wiki/1016959663602400
+>
+> GitHub - Python 100 天从新手到大师（stars 13.9w+）
+>
+> - https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15
+>
+> 中国大学MOOC - Python语言程序设计（北京理工大学）【国家精品】
+>
+> - https://www.icourse163.org/course/BIT-268001
+>
+> 牛客网 - Python 学习教程
+>
+> - https://www.nowcoder.com/tutorial/10005/dc2c82d6557548beb0e2252869be13d8
+>
+> 牛客网 - Python 学习视频
+>
+> - https://www.nowcoder.com/courses/cover/vod/1004
+>
+> 阿里云大学 - Python入门 2020年版
+>
+> - https://edu.aliyun.com/course/314509
+
+### 学习路线图
+
+> GitHub - 开发人员学习路线图（stars 24.8w+），并附有学习资源
+>
+> - https://roadmap.sh/python
