@@ -60,7 +60,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >
 > - https://pipenv.pypa.io/en/latest/
 >
-> - Note: 需要设置环境变量 `WORKON_HOME` 座位虚拟环境的存储目录
+> - Note: 需要设置环境变量 `WORKON_HOME`作为虚拟环境的存储目录
 
 ## Python 入门
 
