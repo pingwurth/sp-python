@@ -78,6 +78,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >
 > - https://www.liaoxuefeng.com/wiki/1016959663602400
 >
+> w3schools - Python 教程
+>
+> - https://www.w3schools.com/python/default.asp
+>
 > GitHub - Python 100 天从新手到大师（stars 13.9w+）
 >
 > - https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15
@@ -103,3 +107,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 > GitHub - 开发人员学习路线图（stars 24.8w+），并附有学习资源
 >
 > - https://roadmap.sh/python
+
+![Python入门学习路线图](./docs/images/Python入门学习路线图.png)
+
