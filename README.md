@@ -66,6 +66,16 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ### 学习资源
 
+GitHub 总榜第 1 的免费编程学习营地
+
+- https://www.freecodecamp.org/learn/scientific-computing-with-python/
+
+GitHub 总榜第 2 的学习资源列表
+
+- https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md#python
+
+#### 个人推荐的 Python 入门教程
+
 > mooc - Python3 入门教程（新版）
 >
 > - http://www.imooc.com/learn/1261
