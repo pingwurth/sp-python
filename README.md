@@ -78,21 +78,21 @@ Type "help", "copyright", "credits" or "license" for more information.
 >
 > - https://www.liaoxuefeng.com/wiki/1016959663602400
 >
-> w3schools - Python 教程
+> 牛客网 - Python 学习教程
 >
-> - https://www.w3schools.com/python/default.asp
+> - https://www.nowcoder.com/tutorial/10005/dc2c82d6557548beb0e2252869be13d8
 >
 > GitHub - Python 100 天从新手到大师（stars 13.9w+）
 >
 > - https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15
 >
+> w3schools - Python 教程
+>
+> - https://www.w3schools.com/python/default.asp
+>
 > 中国大学MOOC - Python语言程序设计（北京理工大学）【国家精品】
 >
 > - https://www.icourse163.org/course/BIT-268001
->
-> 牛客网 - Python 学习教程
->
-> - https://www.nowcoder.com/tutorial/10005/dc2c82d6557548beb0e2252869be13d8
 >
 > 牛客网 - Python 学习视频
 >
