@@ -66,6 +66,14 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ### 学习资源
 
+Python 官方文档
+
+- https://docs.python.org/3/tutorial/index.html
+
+apiref.com
+
+- https://www.apiref.com/python-zh/index.html
+
 GitHub 总榜第 1 的免费编程学习营地
 
 - https://www.freecodecamp.org/learn/scientific-computing-with-python/
@@ -84,10 +92,6 @@ GitHub 总榜第 2 的学习资源列表
 >
 > - http://www.imooc.com/wiki/pythonlesson1
 >
-> 廖雪峰 - 小白的 Python 新手教程
->
-> - https://www.liaoxuefeng.com/wiki/1016959663602400
->
 > 牛客网 - Python 学习教程
 >
 > - https://www.nowcoder.com/tutorial/10005/dc2c82d6557548beb0e2252869be13d8
@@ -96,17 +100,21 @@ GitHub 总榜第 2 的学习资源列表
 >
 > - https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15
 >
+> 廖雪峰 - 小白的 Python 新手教程
+>
+> - https://www.liaoxuefeng.com/wiki/1016959663602400
+>
 > w3schools - Python 教程
 >
 > - https://www.w3schools.com/python/default.asp
 >
-> 中国大学MOOC - Python语言程序设计（北京理工大学）【国家精品】
->
-> - https://www.icourse163.org/course/BIT-268001
->
 > 牛客网 - Python 学习视频
 >
 > - https://www.nowcoder.com/courses/cover/vod/1004
+>
+> 中国大学MOOC - Python语言程序设计（北京理工大学）【国家精品】
+>
+> - https://www.icourse163.org/course/BIT-268001
 >
 > 阿里云大学 - Python入门 2020年版
 >
