@@ -217,6 +217,10 @@ GitHub 总榜第 2 的学习资源列表
 - https://coding.imooc.com/learningpath/route?pathId=28
 - https://class.imooc.com/sale/ai
 
+#### 数据分析
+
+- https://class.imooc.com/sale/dataanalysis
+
 #### Go+Python打造电商系统
 
 https://coding.imooc.com/class/chapter/469.html#Anchor
