@@ -1,5 +1,11 @@
 """
-元组：和 list 类似，使用 () 声明，不可修改，性能是 list 的数倍
+【元组】和 list 类似，使用 () 声明，不可修改，性能是 list 的数倍
+- 官方文档
+    - 入门：https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+    - 进阶：https://docs.python.org/3/library/stdtypes.html#tuple
+- 中文文档
+    - 入门：https://www.apiref.com/python-zh/tutorial/datastructures.html#tuples-and-sequences
+    - 进阶：https://www.apiref.com/python-zh/library/stdtypes.html#tuple
 """
 
 print('\n----------- tuple 和 list 互相转换 -----------')

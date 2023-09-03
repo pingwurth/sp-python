@@ -62,17 +62,27 @@ Type "help", "copyright", "credits" or "license" for more information.
 >
 > - Note: 需要设置环境变量 `WORKON_HOME`作为虚拟环境的存储目录
 
-## Python 入门
+## 学习路线图
 
-### 学习资源
+> GitHub - 开发人员学习路线图（stars 24.8w+），并附有学习资源
+>
+> - https://roadmap.sh/python
 
-Python 官方文档
+![Python入门学习路线图](./docs/images/Python入门学习路线图.png)
 
-- https://docs.python.org/3/tutorial/index.html
+### 学习资料
 
-apiref.com
+Python 官方文档（英文）
+
+- https://docs.python.org/3/index.html
+
+apiref.com 中文的 Python 文档
 
 - https://www.apiref.com/python-zh/index.html
+
+GitHub - Python 100 天从新手到大师（stars 13.9w+）
+
+- https://github.com/jackfrued/Python-100-Days/tree/master
 
 GitHub 总榜第 1 的免费编程学习营地
 
@@ -82,31 +92,29 @@ GitHub 总榜第 2 的学习资源列表
 
 - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md#python
 
-#### 个人推荐的 Python 入门教程
+## Python 入门
 
-> mooc - Python3 入门教程（新版）
+### 学习资源
+
+> imooc - Python3 入门教程（新版）
 >
 > - http://www.imooc.com/learn/1261
 >
-> mooc - Python 入门语法教程
+> imooc - Python 入门语法教程
 >
 > - http://www.imooc.com/wiki/pythonlesson1
+>
+> HackerRank
+>
+> - https://www.hackerrank.com/domains/python
 >
 > 牛客网 - Python 学习教程
 >
 > - https://www.nowcoder.com/tutorial/10005/dc2c82d6557548beb0e2252869be13d8
 >
-> GitHub - Python 100 天从新手到大师（stars 13.9w+）
->
-> - https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15
->
 > 廖雪峰 - 小白的 Python 新手教程
 >
 > - https://www.liaoxuefeng.com/wiki/1016959663602400
->
-> w3schools - Python 教程
->
-> - https://www.w3schools.com/python/default.asp
 >
 > 牛客网 - Python 学习视频
 >
@@ -119,12 +127,96 @@ GitHub 总榜第 2 的学习资源列表
 > 阿里云大学 - Python入门 2020年版
 >
 > - https://edu.aliyun.com/course/314509
-
-### 学习路线图
-
-> GitHub - 开发人员学习路线图（stars 24.8w+），并附有学习资源
 >
-> - https://roadmap.sh/python
+> w3schools - Python 教程
+>
+> - https://www.w3schools.com/python/default.asp
 
-![Python入门学习路线图](./docs/images/Python入门学习路线图.png)
+## Python 进阶
 
+### 学习资料
+
+> imooc - Python 进阶应用教程
+>
+> - http://www.imooc.com/wiki/pythonlesson2
+>
+> 牛客网 - Python 学习教程
+>
+> - https://www.nowcoder.com/tutorial/10005/405978e43980483691016271ac34c9f8
+>
+> 廖雪峰 Python 进阶教程
+>
+> - https://www.liaoxuefeng.com/wiki/1016959663602400/1017269809315232
+>
+> GitHub - Python 100 天从新手到大师（stars 13.9w+）
+>
+> - https://github.com/jackfrued/Python-100-Days/tree/master
+>
+> GitHub 总榜第 2 的学习资源列表 - Django 教程
+>
+> - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md#django
+>
+> imooc - Python 原生爬虫教程
+>
+> - http://www.imooc.com/wiki/pythonspider
+>
+> imooc - 爬虫框架 Scrpary 入门教程
+>
+> - http://www.imooc.com/wiki/scrapylesson
+>
+> imooc - Web 框架 Django 入门教程
+>
+> - http://www.imooc.com/wiki/djangolesson
+>
+> imooc - Web 框架 Flask 入门教程
+>
+> - http://www.imooc.com/wiki/flasklesson
+>
+> imooc - 科学计算库 Numpy 入门教程
+>
+> - http://www.imooc.com/wiki/numpylesson
+>
+> imooc - 科学计算库 Pandas 入门教程
+>
+> - http://www.imooc.com/wiki/pandasless
+>
+> imooc - 机器学习框架 TensorFlow 入门教程
+>
+> - http://www.imooc.com/wiki/tensorflow
+>
+> imooc - Python 办公自动化教程
+>
+> - http://www.imooc.com/wiki/officeautomation
+
+## Python 应用实战
+
+### 学习资料
+
+#### Python 全能工程师
+
+- https://class.imooc.com/sale/python2023
+
+#### Web 开发
+
+- https://coding.imooc.com/learningpath/route?pathId=22
+
+- https://coding.imooc.com/learningpath/route?pathId=33
+- https://coding.imooc.com/learningpath/route?pathId=34
+- https://coding.imooc.com/learningpath/route?pathId=35
+
+#### 爬虫
+
+- https://coding.imooc.com/learningpath/route?pathId=23
+
+#### 量化交易
+
+- https://coding.imooc.com/learningpath/route?pathId=57
+
+#### 人工智能
+
+- https://coding.imooc.com/learningpath/route?pathId=28
+- https://class.imooc.com/sale/ai
+
+#### Go+Python打造电商系统
+
+https://coding.imooc.com/class/chapter/469.html#Anchor

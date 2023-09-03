@@ -1,5 +1,20 @@
 """
-列表
+【列表】
+- 官方文档：https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+- 中文文档：https://www.apiref.com/python-zh/tutorial/datastructures.html#more-on-lists
+
+| 常用的列表函数               | 功能描述                                     |
+| ------------------------- | ------------------------------------------ |
+| len(L)                    | 获取列表的长度                                |
+| max(L)                    | 获取列表中的最大元素                           |
+| min(L)                    | 获取列表中的最小元素                           |
+| L.append(item)            | 向列表中新增一个元素 item                      |
+| L.insert(index, item)     | 将元素 item 插入列表指定位置 index             |
+| L.pop() / L.pop(n)        | 从列表尾部取出一个元素 / 取出指定位置 n 的元素    |
+| L.remove(item)            | 从列表中删除指定元素 item                     |
+| L.index(item)             | 在列表中查找指定元素 item，如果找到返回其索引     |
+| L.reverse()               | 将列表中元素倒序排列                          |
+| L.sort()                  | 对列表中的元素进行排序                        |
 """
 
 print('\n----------- 定义一个 list 并直接打印输出 -----------')
@@ -37,7 +52,8 @@ print('又插入两个元素 - ', classmates)
 print('\n----------- list - 删除元素: pop、pop(n) -----------')
 L = ['Alice', 'Bob', 'Candy', 'David', 'Ellena']
 L.pop()
-L.pop(2) # 删除指定位置的元素
+# 删除指定位置的元素
+L.pop(2)
 print(L)
 
 print('\n----------- list - 替换元素 -----------')

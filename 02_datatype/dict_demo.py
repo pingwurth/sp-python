@@ -3,6 +3,12 @@
 查找速度快，无论是 10 个元素还是 10 万个元素，查找速度都一样
 key 必须使用不可变类型，如果使用可变类型（比如：list）会报错
 缺点：内存占用大
+- 官方文档
+    - 入门：https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+    - 进阶：https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
+- 中文文档
+    - 入门：https://www.apiref.com/python-zh/tutorial/datastructures.html#dictionaries
+    - 进阶：https://www.apiref.com/python-zh/library/stdtypes.html#mapping-types-dict
 """
 
 print('\n----------- 字典演示 -----------')

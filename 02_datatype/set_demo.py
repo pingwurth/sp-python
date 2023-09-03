@@ -1,6 +1,11 @@
 """
-【集合】
-无序的、不允许重复元素
+【集合】无序的、不允许重复元素
+- 官方文档
+    - 入门：https://docs.python.org/3/tutorial/datastructures.html#sets
+    - 进阶：https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+- 中文文档
+    - 入门：https://www.apiref.com/python-zh/tutorial/datastructures.html#sets
+    - 进阶：https://www.apiref.com/python-zh/library/stdtypes.html#set-types-set-frozenset
 """
 
 print('\n----------- 创建一个 set, 注意和 list 的区别 -----------')

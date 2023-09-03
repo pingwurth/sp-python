@@ -71,3 +71,101 @@ L = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 result = sub_sum(L)
 print('奇数项的和 = {}'.format(result[0]))
 print('偶数项的和 = {}'.format(result[1]))
+
+print('\n----------- 递归函数 -----------')
+
+
+def fact(n):
+    """
+    计算 n 的阶乘
+    :param n: 阶数
+    :return: n 的阶乘
+    """
+    if n == 1:
+        return 1
+    return n * fact(n - 1)
+
+
+print('使用递归函数实现：计算 !5 = ', fact(5))
+
+print('\n----------- 函数参数校验 -----------')
+
+
+def func(x):
+    """
+    如果 x 是 list 或 tuple，就计算所有数字的和
+    :param x: 一个列表或元组，如果不是就返回 None
+    :return: x 中所有数字求和结果
+    """
+    if not isinstance(x, list) and not isinstance(x, tuple):
+        return None
+    # x 是一个 列表，计算所有数字的和
+    if type(x) == list:
+        ret = 0
+        for item in x:
+            if isinstance(item, int) or isinstance(item, float):
+                ret = ret + item
+        return ret
+    # x 是一个 元组，计算所有数字的和
+    if type(x) == tuple:
+        ret = 0
+        for item in x:
+            if isinstance(item, int) or isinstance(item, float):
+                ret = ret + item
+        return ret
+
+
+li = [1, 2, 3, 4, 5]
+print(func(li))
+
+print('\n----------- 默认参数（必须定义在最后，否则参数匹配会有问题） -----------')
+
+
+def greet(name='World'):
+    print('Hello,', name)
+
+
+greet()
+greet('Python')
+
+print('\n----------- 可变参数（参数被当作 tuple 处理） -----------')
+
+
+def average(*args):
+    """
+    计算平均数
+    :param args: 一组数字
+    :return: 平均数
+    """
+    count = 0
+    if len(args) == 0:
+        return count
+    for item in args:
+        count += item
+    avg = count / len(args)
+    return avg
+
+
+print(average(2, 4, 6, 7, 9))
+
+print('\n----------- 可变关键字参数（参数被当作 dict 处理） -----------')
+
+
+def info(**kwargs):
+    names = kwargs['names']
+    gender_list = kwargs['gender']
+    age_list = kwargs['age']
+    index = 0
+    for name in names:
+        gender = gender_list[index]
+        age = age_list[index]
+        print('name: {}, gender: {}, age: {}'.format(name, gender, age))
+        index += 1
+
+
+info(names=['Alice', 'Bob', 'Candy'],
+     gender=['girl', 'boy', 'girl'],
+     age=[16, 17, 15])
+
+
+print('\n----------- 参数定义顺序：必传参数 -> 默认参数 -> 可变参数 -> 可变关键字参数 -----------')
