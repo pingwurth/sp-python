@@ -1,5 +1,9 @@
 """
 【面向对象】
+构造函数
+私有变量、私有函数
+装饰器
+继承与多态
 """
 
 
@@ -7,6 +11,10 @@ class Person(object):
     """
     定义一个 Person 类
     """
+
+    # 私有变量（以双下划线开头）
+    __assets = 3489578935.32
+
     def __init__(self, name, age=None):
         """
         类的构造函数
@@ -18,6 +26,13 @@ class Person(object):
 
     def run(self):
         print(f'{self.name} 在奔跑')
+
+    def __descript(self):
+        """
+        私有函数，以 __ 开头
+        :return:
+        """
+        print(f'{self.name} has {self.__assets} asset')
 
 
 # 类的实例化：创建一个 Person 对象

@@ -216,6 +216,7 @@ GitHub 总榜第 2 的学习资源列表
 
 - https://coding.imooc.com/learningpath/route?pathId=28
 - https://class.imooc.com/sale/ai
+- 数学：https://coding.imooc.com/learningpath/route?pathId=40
 
 #### 数据分析
 
