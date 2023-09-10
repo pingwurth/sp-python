@@ -214,9 +214,18 @@ GitHub 总榜第 2 的学习资源列表
 
 #### 人工智能
 
+- 数学基础：https://coding.imooc.com/learningpath/route?pathId=40
+
 - https://coding.imooc.com/learningpath/route?pathId=28
 - https://class.imooc.com/sale/ai
-- 数学：https://coding.imooc.com/learningpath/route?pathId=40
+
+> 学时：385个小时
+>
+> 实际学习时长按 5 倍算：共 1925 个小时
+>
+> 1925 ÷ 365 ≈ 5.27
+>
+> 每天 5~6 小时，需要一年时间，学习成果能够以良好的形式呈现才有机会脱颖而出
 
 #### 数据分析
 

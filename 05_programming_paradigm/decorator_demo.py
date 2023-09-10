@@ -40,10 +40,12 @@ def check_str(func):
     return inner
 
 
+print('\n----------- 用 @ 实现装饰器 -----------')
+
+
 @check_str
 def test(data):
     return data
 
 
-print('\n----------- @装饰器函数 -----------')
 print(test(data='ok'))
