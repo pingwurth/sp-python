@@ -1,4 +1,5 @@
 import os
+from module_demo import *
 
 """
 os 模块演示
@@ -24,7 +25,7 @@ def copy(source_path, target_path):
         os.write(target_fd, binary)
 
 
-tmpdir = "/tmp/python/"
+tmpdir = get_project_dir() + os.sep
 copy(tmpdir + "demo.txt", tmpdir + "demo.bak")
 print(tmpdir + ' 目录下的文件：')
 print(os.listdir(tmpdir))
